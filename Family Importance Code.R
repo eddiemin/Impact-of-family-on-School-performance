@@ -4,6 +4,8 @@ library(tidyverse)
 library(dplyr)
 set.seed(1222)
 
+#data is from https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
 # Load and explore data structure
 # Placeholder
 df<-"student_por.csv" %>%
